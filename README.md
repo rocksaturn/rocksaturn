@@ -4,7 +4,7 @@ Hi! I'm Zuhal, an Electrical and Electronics Engineering student passionate abou
 
 - Embedded systems and circuit design  
 - Autonomous technologies and robotics (ROS, AI, control systems)  
-- Electric vehicles (dreaming of Tesla's Saturn Project)  
+- Electric vehicles   
 - Python, C++, MATLAB, Arduino, ROS2
 
 Currently working on small sensor-based projects and simulations.  
