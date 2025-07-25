@@ -1,16 +1,14 @@
-## Hi there 👋
+#  Zuhal Manbaki | @rocksaturn
 
-<!--
-**rocksaturn/rocksaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Zuhal, an Electrical and Electronics Engineering student passionate about:
 
-Here are some ideas to get you started:
+- Embedded systems and circuit design  
+- Autonomous technologies and robotics (ROS, AI, control systems)  
+- Electric vehicles (dreaming of Tesla's Saturn Project)  
+- Python, C++, MATLAB, Arduino, ROS2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on small sensor-based projects and simulations.  
+Goal: Build intelligent systems that move the world forward.
+
+> Let’s rock the system, Saturn-style.
+Update README
